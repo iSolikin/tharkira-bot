@@ -11,4 +11,4 @@
 
 Авторизация через Google остаётся за вами.
 
-**Доступ по подписке:** [написать @Animuchi](https://t.me/Animuchi) · тема сообщения «Tharkira Bot».
+**Доступ по подписке:** [написать @isolikin](https://t.me/isolikin) · тема сообщения «Tharkira Bot».
